@@ -41,3 +41,13 @@ TermSocket.open: Opened 1
 [W 07:38:12.888 NotebookApp] Notebook Untitled.ipynb is not trusted
 [I 07:38:16.850 NotebookApp] Starting buffering for 509c6124-14ef-4f2c-a71a-24e850a6506a:c732d021a77a4f988d94b4fbfd3c4500
 [I 07:38:48.966 NotebookApp] Kernel shutdown: 509c6124-14ef-4f2c-a71a-24e850a6506a
+[W 07:53:49.704 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 07:53:49.797 NotebookApp] Kernel started: 35c573f7-864e-408f-97bf-b0baee6e9a7c, name: python3
+[I 07:53:51.461 NotebookApp] Starting buffering for 35c573f7-864e-408f-97bf-b0baee6e9a7c:5c1ff7abc7434adeb8b0640b2cdbd41d
+[W 07:54:00.285 NotebookApp] delete /Untitled.ipynb
+[I 07:54:10.164 NotebookApp] Creating new file in 
+[W 07:55:56.869 NotebookApp] delete /HW-2.html
+[I 07:56:03.480 NotebookApp] Creating new notebook in 
+[I 07:56:30.412 NotebookApp] Saving file at /Untitled.ipynb
+[W 07:56:30.547 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 07:57:09.440 NotebookApp] Uploading file to /Hello worldR.html
