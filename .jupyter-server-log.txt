@@ -60,3 +60,30 @@ TermSocket.open: Opened 1
 TermSocket.open: 2
 TermSocket.open: Opened 2
 Websocket closed
+[I 08:12:40.017 NotebookApp] Creating new file in 
+[W 08:12:55.482 NotebookApp] delete /untitled2.txt
+[W 08:13:02.140 NotebookApp] delete /untitled1.txt
+[W 08:13:11.404 NotebookApp] delete /untitled.txt
+[I 08:13:18.754 NotebookApp] Creating new notebook in 
+[I 08:13:19.587 NotebookApp] Kernel started: 6b5eb42c-928e-4608-a61d-a31a65f437d7, name: ir
+[I 08:13:20.832 NotebookApp] Adapting from protocol version 5.0 (kernel 6b5eb42c-928e-4608-a61d-a31a65f437d7) to 5.3 (client).
+[I 08:13:32.600 NotebookApp] Starting buffering for 6b5eb42c-928e-4608-a61d-a31a65f437d7:a06be383a304408b83be7d947cd9a60a
+[I 08:13:39.607 NotebookApp] Kernel shutdown: 6b5eb42c-928e-4608-a61d-a31a65f437d7
+[W 08:13:44.819 NotebookApp] delete /Untitled1.ipynb
+[W 08:13:47.370 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 08:13:47.474 NotebookApp] Kernel started: 95f1404f-7882-4984-9af0-81cd14179be0, name: python3
+[I 08:15:40.417 NotebookApp] Starting buffering for 95f1404f-7882-4984-9af0-81cd14179be0:9645d94364d04f708ed20aa283d2c6a9
+[I 08:15:40.428 NotebookApp] Kernel shutdown: 95f1404f-7882-4984-9af0-81cd14179be0
+[I 08:15:40.796 NotebookApp] Kernel started: 6f1a9f1d-96f6-4307-87ff-3c629930fefb, name: ir
+[I 08:15:41.628 NotebookApp] Adapting from protocol version 5.0 (kernel 6f1a9f1d-96f6-4307-87ff-3c629930fefb) to 5.3 (client).
+[I 08:15:47.513 NotebookApp] Saving file at /HellowR.ipynb
+[W 08:16:38.953 NotebookApp] WebSocket ping timeout after 119868 ms.
+Websocket closed
+[I 08:16:45.134 NotebookApp] Starting buffering for 6f1a9f1d-96f6-4307-87ff-3c629930fefb:9645d94364d04f708ed20aa283d2c6a9
+[I 08:16:53.943 NotebookApp] Adapting from protocol version 5.0 (kernel 6f1a9f1d-96f6-4307-87ff-3c629930fefb) to 5.3 (client).
+[I 08:17:04.931 NotebookApp] Saving file at /HellowR.ipynb
+[I 08:17:26.152 NotebookApp] Starting buffering for 6f1a9f1d-96f6-4307-87ff-3c629930fefb:49aa9ecf858f42fbad9fa86c19a6510f
+[I 08:17:41.895 NotebookApp] Uploading file to /HellowR-2.html
+[I 08:17:54.211 NotebookApp] New terminal with automatic name: 3
+TermSocket.open: 3
+TermSocket.open: Opened 3
