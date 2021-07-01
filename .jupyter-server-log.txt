@@ -87,3 +87,11 @@ Websocket closed
 [I 08:17:54.211 NotebookApp] New terminal with automatic name: 3
 TermSocket.open: 3
 TermSocket.open: Opened 3
+[W 08:27:26.321 NotebookApp] Culling 'idle' kernel 'ir' (6f1a9f1d-96f6-4307-87ff-3c629930fefb) with 0 connections due to 630 seconds of inactivity.
+[I 08:27:26.322 NotebookApp] Kernel shutdown: 6f1a9f1d-96f6-4307-87ff-3c629930fefb
+[W 08:45:10.776 NotebookApp] delete /Hello worldpy.html
+[W 08:45:10.778 NotebookApp] delete /HellowR-2.html
+[I 08:45:16.719 NotebookApp] Kernel started: 52f10b76-0704-4049-bc2c-0c6f830ada49, name: ir
+[I 08:45:17.508 NotebookApp] Adapting from protocol version 5.0 (kernel 52f10b76-0704-4049-bc2c-0c6f830ada49) to 5.3 (client).
+[I 08:45:31.514 NotebookApp] Saving file at /HellowR.ipynb
+[I 08:46:23.860 NotebookApp] Uploading file to /HellowR-3.html
